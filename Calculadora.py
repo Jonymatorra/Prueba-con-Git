@@ -1,8 +1,8 @@
-print("Calculadora con una sola variable\n")
 
-print("********************")
-print(" *Menu de opciones* ")
-print("********************")
+
+
+print(" *Menu de opciones* ")  
+
 
 print("1. Suma")
 print("2. Resta")
