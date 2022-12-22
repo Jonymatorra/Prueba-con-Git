@@ -1,4 +1,4 @@
-
+print("todo bien") 
 
 
 print(" *Menu de opciones* ")  
